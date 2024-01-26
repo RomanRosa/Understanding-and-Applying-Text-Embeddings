@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+utils
+vertexai
+scikit-learn
+numpy
