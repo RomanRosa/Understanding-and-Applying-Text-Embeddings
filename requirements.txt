@@ -3,3 +3,5 @@ utils
 vertexai
 scikit-learn
 numpy
+matplotlib
+mplcursors
